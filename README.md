@@ -8,7 +8,7 @@ Look what it looks like : https://super-silicon-valley.web.app/
 
 # Add companies and startups to the map 🚀
 
-- go to script.js(https://github.com/ssantoshp/TheSuperSiliconValleyMap/blob/main/script.js)
+- go to [script.js](https://github.com/ssantoshp/TheSuperSiliconValleyMap/blob/main/script.js)
 - add a new company by adding their logo and their coordinates (you can use google map to get them). The code you add to script.js should look like that :
 ```
 code
