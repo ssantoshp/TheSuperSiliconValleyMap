@@ -14,7 +14,7 @@ function initMap() {
 			"Tesla",
 			37.402114072769894,
 			-122.11408504047343,
-			'tesla.png',
+			'assets/tesla.png',
 			50,
 			50,
             
@@ -24,7 +24,7 @@ function initMap() {
 			'You Are Here',
 			37.322114072769894,
 			-122.08409302047343,
-			'pointer.svg',
+			'assets/pointer.svg',
 			50,
 			50,
 		],
@@ -32,7 +32,7 @@ function initMap() {
 			'Intel',
 			37.40111265381338,
             -121.93551667250343,
-			'intel.png',
+			'assets/intel.png',
 			50,
 			45,
          
@@ -41,7 +41,7 @@ function initMap() {
 			'Airbnb',
 			37.76171943577517, 
             -122.40537623132253,
-			'airbnb.png',
+			'assets/airbnb.png',
 			100,
 			30,
          
@@ -50,7 +50,7 @@ function initMap() {
 			'Salesforce',
 			37.79986733345304, 
             -122.39690266083886,
-			'sales.png',
+			'assets/sales.png',
 			60,
 			45,
          
@@ -60,7 +60,7 @@ function initMap() {
 			'HP',
 			37.414758182199016,
             -122.14638598311048,
-			'hp.png',
+			'assets/hp.png',
 			50,
 			50,
          
@@ -69,7 +69,7 @@ function initMap() {
 			'Pinterest',
 			37.77788300973486, 
             -122.39690640178195,
-			'pin.png',
+			'assets/pin.png',
 			70,
 			50,
          
@@ -78,7 +78,7 @@ function initMap() {
 			'Visa',
 			37.793774717649725,
             -122.40462947425568,
-			'visa.png',
+			'assets/visa.png',
 			50,
 			20,
             
@@ -87,7 +87,7 @@ function initMap() {
 			'Google',
 			37.422078893314286, 
             -122.08408836068601,
-			'google.png',
+			'assets/google.png',
 			100,
 			40,
             
@@ -96,7 +96,7 @@ function initMap() {
 			'Youtube',
 			37.6279387565884, 
             -122.42653600178566,
-			'ytb.png',
+			'assets/ytb.png',
 			50,
 		    35,
             
@@ -105,7 +105,7 @@ function initMap() {
 			'Dropbox',
 			37.78107041438844, 
             -122.39269618842624,
-			'dropbox.png',
+			'assets/dropbox.png',
 			75,
 		    25,
             
@@ -114,7 +114,7 @@ function initMap() {
 			'Twitter',
 			37.776479609946435, 
             -122.41720241343882,
-			'twitter.png',
+			'assets/twitter.png',
 			50,
 			50,
             
@@ -123,7 +123,7 @@ function initMap() {
 			'Hulu',
 			37.78858195833652, 
             -122.401371919885,
-			'hulu.png',
+			'assets/hulu.png',
 			50,
 			20,
             
@@ -132,7 +132,7 @@ function initMap() {
 			'Yahoo',
 			37.417173813635486,
 			-122.0250052434197,
-			'yahoo.png',
+			'assets/yahoo.png',
 			80,
 			30,
             
@@ -141,19 +141,19 @@ function initMap() {
 			'Uber',
 			37.77569299880041,
 			-122.41797342818941,
-			'uber.png',
+			'assets/uber.png',
 			50,
 			20,
 		],
 
-		['PayPal', 37.37642483359995, -121.9224816018824, 'paypal.png', 70, 60],
-		['Warp Pipe', 37.52739738978135, -122.1409604047343, 'pipe.svg', 38, 42.5],
-		['Star World', 34.667959023359266, 135.42866400953733, 'star.svg', 38, 38],
+		['PayPal', 37.37642483359995, -121.9224816018824, 'assets/paypal.png', 70, 60],
+		['Warp Pipe', 37.52739738978135, -122.1409604047343, 'assets/pipe.svg', 38, 42.5],
+		['Star World', 34.667959023359266, 135.42866400953733, 'assets/star.svg', 38, 38],
 		[
 			'Donut Plains',
 			37.362114072769894,
 			-122.09096040473431,
-			'hill_with_eyes.svg',
+			'assets/hill_with_eyes.svg',
 			50,
 			60.7,
 		],
@@ -161,7 +161,7 @@ function initMap() {
 			'Apple',
 			37.33199651048826,
 			-122.03089429636101,
-			'apple.svg',
+			'assets/apple.svg',
 			40,
 			50,
             
@@ -170,7 +170,7 @@ function initMap() {
 			'Oracle',
 			37.39548685009004, 
             -121.96381903598964,
-			'oracle.png',
+			'assets/oracle.png',
 			65,
 			90,
             
@@ -179,7 +179,7 @@ function initMap() {
 			'Facebook',
 			37.48508510747482,
 			-122.14828144072919,
-			'fb.png',
+			'assets/fb.png',
 			40,
 			45,
            
@@ -188,7 +188,7 @@ function initMap() {
 			'LinkedIn',
 			37.392637967557185,
 			-122.0407287901345,
-			'linkedin.png',
+			'assets/linkedin.png',
 			40,
 			45,
            
@@ -197,7 +197,7 @@ function initMap() {
 			'Netflix',
 			37.259582057499436,
 			-121.96269567243688,
-			'netflix.png',
+			'assets/netflix.png',
 			65,
 			50,
 		],
